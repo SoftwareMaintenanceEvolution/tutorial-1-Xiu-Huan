@@ -3,7 +3,7 @@
 Hi! I'm Wong Xiu Huan, a student in the Framework-Based Software Design and Development course. 
 I hope to learn how to maintain and evolve existing software systems while gaining practical skills in handling legacy code.
 
-[![My Image](panda.jpg)](https://github.com/Xiu-Huan)
+[![My Image](panda.jpg)]([https://github.com/Xiu-Huan](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-Xiu-Huan/blob/profile-upload/panda.jpg))
 
 ## GitHub Profile
 
